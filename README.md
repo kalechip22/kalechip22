@@ -2,7 +2,7 @@
 
 - 🔭 Currently I'm working on a mini-project course called 50 Projects in 50 Days
 - 🌱 Currently I'm learning about machine learning and computer vision
-- 💬 Ask me about any projects or ideas you want to create!
+- 💬 Ask me about any projects or ideas you'd like to create together!
 - 📫 Connect with me at: [kayla.r.hom@gmail.com](mailto:kayla.r.hom@gmail.com)
 
 <!--
