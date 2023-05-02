@@ -1,7 +1,7 @@
 ### Hello there I'm Kayla Rose Hom! 👋
 
-- 🔭 Currently I'm working on a mini-project course called 50 Projects in 50 Days
-- 🌱 Currently I'm learning about machine learning and computer vision
+- 🔭 I'm currently working on a mini-project course called 50 Projects in 50 Days!
+- 🌱 I'm also learning about machine learning and computer vision currently.
 - 💬 Ask me about any projects or ideas you'd like to create together!
 - 📫 Connect with me at: [kayla.r.hom@gmail.com](mailto:kayla.r.hom@gmail.com)
 
