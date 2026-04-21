@@ -1,9 +1,7 @@
-### Hello there I'm Kayla Rose Hom! 👋
-
-- 🔭 I'm currently working on my machine learning and web development skills.
-- 🌱 This month I am learning about deep learning frameworks and the foundations of AI/ML!
-- 💬 Ask me about any projects or ideas you'd like to create together!
-- 📫 Connect with me at: [kayla.r.hom@gmail.com](mailto:kayla.r.hom@gmail.com)
+### Hello there! I'm Kayla Rose Hom 🌱
+🤖 Applied AI Engineer | LLM & RAG Chatbot Development
+🏥 Building AI solutions for healthcare: clinical assessment tools, RAG chatbots, and AI patient simulators
+📫 Reach me at: [kayla.r.hom@gmail.com](mailto:kayla.r.hom@gmail.com)
 
 <!--
 **kalechip22/kalechip22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
