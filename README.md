@@ -1,7 +1,7 @@
 ### Hello there! I'm Kayla Rose Hom 🌱
-🤖 Applied AI Engineer | LLM & RAG Chatbot Development
-🏥 Building AI solutions for healthcare: clinical assessment tools, RAG chatbots, and AI patient simulators
-📫 Reach me at: [kayla.r.hom@gmail.com](mailto:kayla.r.hom@gmail.com)
+- 🤖 Applied AI Engineer | LLM & RAG Chatbot Development
+- 🏥 Building AI solutions for healthcare: clinical assessment tools, RAG chatbots, and AI patient simulators
+- 📫 Reach me at: [kayla.r.hom@gmail.com](mailto:kayla.r.hom@gmail.com)
 
 <!--
 **kalechip22/kalechip22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
